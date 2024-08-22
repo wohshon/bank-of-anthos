@@ -12,9 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-project_id = "bank-of-anthos-ci"
-region     = "us-central1"
-zone       = "us-central1-b"
+project_id = "sandbox-project-1673797795"
+region     = "asia-southeast-1"
+zone       = "asia-southeast-1-b"
 
 repo_owner  = "GoogleCloudPlatform"
 sync_repo   = "bank-of-anthos"

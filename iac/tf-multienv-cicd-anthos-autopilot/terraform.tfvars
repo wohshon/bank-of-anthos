@@ -12,10 +12,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-project_id = "sandbox-project-1673797795"
+project_id = "wohshon-cicd"
 region     = "us-central1"
 zone       = "us-central1-b"
 
-repo_owner  = "GoogleCloudPlatform"
+repo_owner  = "wohshon"
 sync_repo   = "bank-of-anthos"
 sync_branch = "main"

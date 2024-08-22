@@ -13,8 +13,8 @@
 # limitations under the License.
 
 project_id = "sandbox-project-1673797795"
-region     = "asia-southeast1"
-zone       = "asia-southeast1-b"
+region     = "us-central1"
+zone       = "us-central1-b"
 
 repo_owner  = "GoogleCloudPlatform"
 sync_repo   = "bank-of-anthos"
